@@ -23,8 +23,7 @@ Virtual Cyber Labs ------> https://virtualcyberlabs.com/
 
 # Free course 
 
-- 1. https://www.learnvern.com/user/webmanual/verification
-
+- 1. https://www.learnvern.com/
 
 - 2. 
 
